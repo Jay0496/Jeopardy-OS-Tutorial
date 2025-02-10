@@ -179,8 +179,189 @@
                     "answer": "What is Sonic/Dankey Kang?"
                 }
             ]
+        },
+        {
+            "name": "MYTHOLOGY",
+            "questions": [
+                {
+                    "value": 100, 
+                    "question": "THIS KING OF THE GODS WIELDED A LIGHTNING BOLT IN GREEK MYTHOLOGY", 
+                    "answer": "Who is Zeus?"
+                },
+                {
+                    "value": 200, 
+                    "question": "THIS NORSE GOD LOST HIS HAND TO THE WOLF FENRIR", 
+                    "answer": "Who is Tyr?"
+                },
+                {
+                    "value": 300, 
+                    "question": "THIS EGYPTIAN GOD HAD THE HEAD OF A FALCON AND WAS ASSOCIATED WITH THE SKY", 
+                    "answer": "Who is Horus?"
+                },
+                {
+                    "value": 400, 
+                    "question": "THIS TRICKSTER GOD CAUSED CHAOS AMONG THE NORSE PANTHEON", 
+                    "answer": "Who is Loki?"
+                },
+                {
+                    "value": 500, 
+                    "question": "IN HINDU MYTHOLOGY, THIS GOD PRESERVES AND PROTECTS THE UNIVERSE", 
+                    "answer": "Who is Vishnu?"
+                }
+            ]
+        },
+        {
+            "name": "VIDEO GAME MUSIC",
+            "questions": [
+                {
+                    "value": 100,
+                    "question": "THE THEME SONG FOR THIS NINTENDO CHARACTER IS OFTEN ASSOCIATED WITH GREEN PIPES", 
+                    "answer": "What is Mario?"
+                },
+                {
+                    "value": 200, 
+                    "question": "MEGALOVANIA IS A FAMOUS TRACK FROM THIS INDIE RPG", 
+                    "answer": "What is Undertale?"
+                },
+                {
+                    "value": 300, 
+                    "question": "THIS COMPOSER CREATED THE ICONIC SOUNDTRACK FOR THE FINAL FANTASY SERIES", 
+                    "answer": "Who is Nobuo Uematsu?"
+                },
+                {
+                    "value": 400, 
+                    "question": "THE SONG 'STILL ALIVE' WAS FEATURED IN THIS SCI-FI PUZZLE GAME", 
+                    "answer": "What is Portal?"
+                },
+                {
+                    "value": 500, 
+                    "question": "THE HALO THEME MUSIC WAS ORIGINALLY PERFORMED WITH THIS TYPE OF CHOIR", 
+                    "answer": "What is a Gregorian Choir?"
+                }
+            ]
+        },
+        {
+            "name": "SPACE EXPLORATION",
+            "questions": [
+                {
+                    "value": 100, 
+                    "question": "THIS WAS THE FIRST MAN TO WALK ON THE MOON", 
+                    "answer": "Who is Neil Armstrong?"
+                },
+                {
+                    "value": 200, 
+                    "question": "THIS SPACE TELESCOPE HAS CAPTURED STUNNING IMAGES OF THE UNIVERSE SINCE 1990", 
+                    "answer": "What is the Hubble Space Telescope?"
+                },
+                {
+                    "value": 300, 
+                    "question": "THIS PLANETARY SYSTEM HOSTS THE MOST EARTH-LIKE EXOPLANETS DISCOVERED", 
+                    "answer": "What is TRAPPIST-1?"
+                },
+                {
+                    "value": 400, 
+                    "question": "IN 2021, THIS COMPANY SENT WILLIAM SHATNER TO SPACE", 
+                    "answer": "What is Blue Origin?"
+                },
+                {
+                    "value": 500, 
+                    "question": "THIS MARS ROVER SUCCESSFULLY LANDED ON THE RED PLANET IN 2021", 
+                    "answer": "What is Perseverance?"
+                }
+            ]
+        },
+        {
+            "name": "FAMOUS INVENTORS",
+            "questions": [
+                {
+                    "value": 100, 
+                    "question": "THIS INVENTOR PERFECTED THE LIGHT BULB", 
+                    "answer": "Who is Thomas Edison?"
+                },
+                {
+                    "value": 200, 
+                    "question": "HE DEVELOPED THE THEORY OF RELATIVITY AND HELPED EXPLAIN E=MC^2", 
+                    "answer": "Who is Albert Einstein?"
+                },
+                {
+                    "value": 300, 
+                    "question": "THIS ENGINEER IS KNOWN FOR HIS WORK ON ALTERNATING CURRENT ELECTRICITY", 
+                    "answer": "Who is Nikola Tesla?"
+                },
+                {
+                    "value": 400, 
+                    "question": "THIS AMERICAN INNOVATOR CREATED THE ASSEMBLY LINE FOR MASS PRODUCTION", 
+                    "answer": "Who is Henry Ford?"
+                },
+                {
+                    "value": 500, 
+                    "question": "THIS WOMAN PIONEERED COMPUTER PROGRAMMING WITH HER WORK ON THE ANALYTICAL ENGINE", 
+                    "answer": "Who is Ada Lovelace?"
+                }
+            ]
+        },
+        {
+            "name": "MOVIE QUOTES",
+            "questions": [
+                {
+                    "value": 100, 
+                    "question": "'I'LL BE BACK' COMES FROM THIS CLASSIC ACTION FILM", 
+                    "answer": "What is The Terminator?"
+                },
+                {
+                    "value": 200, 
+                    "question": "'YOU TALKIN’ TO ME?' IS A FAMOUS LINE FROM THIS 1976 FILM", 
+                    "answer": "What is Taxi Driver?"
+                },
+                {
+                    "value": 300, 
+                    "question": "'WHY SO SERIOUS?' WAS SAID BY THIS BATMAN VILLAIN", 
+                    "answer": "Who is The Joker?"
+                },
+                {
+                    "value": 400, 
+                    "question": "'HERE’S LOOKING AT YOU, KID' IS FROM THIS ICONIC 1942 MOVIE", 
+                    "answer": "What is Casablanca?"},
+                {
+                    "value": 500, 
+                    "question": "'I DRINK YOUR MILKSHAKE!' IS FROM THIS 2007 FILM", 
+                    "answer": "What is There Will Be Blood?"}
+            ]
+        },
+        {
+            "name": "LEGENDARY SWORDS",
+            "questions": [
+                {
+                    "value": 100, 
+                    "question": "THIS KING OF BRITAIN WIELDED EXCALIBUR", 
+                    "answer": "Who is King Arthur?"
+                },
+                {
+                    "value": 200, 
+                    "question": "THIS ZELDA PROTAGONIST USES THE MASTER SWORD", 
+                    "answer": "Who is Link?"
+                },
+                {
+                    "value": 300, 
+                    "question": "THIS JAPANESE SWORD IS ASSOCIATED WITH SAMURAI WARRIORS", 
+                    "answer": "What is a Katana?"
+                },
+                {
+                    "value": 400, 
+                    "question": "THE 'SWORD OF OMENS' BELONGS TO THIS FICTIONAL LEADER",
+                    "answer": "Who is Lion-O?"
+                },
+                {
+                    "value": 500, 
+                    "question": "THIS FINAL FANTASY CHARACTER USES THE MASSIVE BUSTER SWORD", 
+                    "answer": "Who is Cloud Strife?"
+                }
+            ]
         }
+
+
     ],
+
     "double-jeopardy":[
         {
             "name":"NINTENDO",
@@ -366,11 +547,209 @@
                     "answer": "What is Pac-Man Fever?"
                 }
             ]
+        },
+        {
+            "name": "PIXAR FILMS",
+            "questions": [
+                {
+                    "value": 200, 
+                    "question": "THIS PIXAR MOVIE FEATURES A RAT WHO LOVES TO COOK", 
+                    "answer": "What is Ratatouille?"
+                },
+                {
+                    "value": 400, 
+                    "question": "THE MAIN CHARACTER OF THIS PIXAR MOVIE IS A TRASH-COMPACTING ROBOT", 
+                    "answer": "What is WALL-E?"
+                },
+                {
+                    "value": 600, 
+                    "question": "THIS PIXAR FILM FOLLOWS A YOUNG GIRL NAMED RILEY AND HER EMOTIONS", 
+                    "answer": "What is Inside Out?"
+                },
+                {
+                    "value": 800, 
+                    "question": "IN TOY STORY, THIS TOY COWBOY IS WOODY'S BEST FRIEND", 
+                    "answer": "Who is Buzz Lightyear?"
+                },
+                {
+                    "value": 1000, 
+                    "question": "THIS PIXAR FILM FEATURES LIGHTNING MCQUEEN AS ITS MAIN CHARACTER", 
+                    "answer": "What is Cars?"
+                }
+            ]
+        },
+        {
+            "name": "FAMOUS SCIENTISTS",
+            "questions": [
+                {
+                    "value": 200, 
+                    "question": "HE DEVELOPED THE THEORY OF GRAVITY AFTER OBSERVING A FALLING APPLE", 
+                    "answer": "Who is Isaac Newton?"
+                },
+                {
+                    "value": 400, 
+                    "question": "THIS SCIENTIST DEVELOPED THE THEORY OF RELATIVITY", 
+                    "answer": "Who is Albert Einstein?"
+                },
+                {
+                    "value": 600, 
+                    "question": "SHE DISCOVERED RADIOACTIVITY AND WON TWO NOBEL PRIZES", 
+                    "answer": "Who is Marie Curie?"
+                },
+                {
+                    "value": 800, 
+                    "question": "THIS SCIENTIST FORMULATED THE LAWS OF MOTION", 
+                    "answer": "Who is Isaac Newton?"
+                },
+                {
+                    "value": 1000, 
+                    "question": "HE DEVELOPED THE POLIO VACCINE", 
+                    "answer": "Who is Jonas Salk?"
+                }
+            ]
+        },
+        {
+            "name": "SUPERHERO TEAMS",
+            "questions": [
+                {
+                    "value": 200, 
+                    "question": "THIS TEAM INCLUDES CAPTAIN AMERICA, IRON MAN, AND THOR", 
+                    "answer": "Who are The Avengers?"
+                },
+                {
+                    "value": 400, 
+                    "question": "THESE MUTANTS FIGHT FOR PEACE BETWEEN HUMANS AND MUTANTS", 
+                    "answer": "Who are The X-Men?"
+                },
+                {
+                    "value": 600, 
+                    "question": "BATMAN, SUPERMAN, AND WONDER WOMAN ARE MEMBERS OF THIS TEAM", 
+                    "answer": "What is The Justice League?"
+                },
+                {
+                    "value": 800, 
+                    "question": "THESE HEROES INCLUDE STAR-LORD, GAMORA, AND GROOT", 
+                    "answer": "Who are The Guardians of the Galaxy?"
+                },
+                {
+                    "value": 1000, 
+                    "question": "THE TEENAGE MUTANT NINJA TURTLES TRAIN UNDER THIS MASTER", 
+                    "answer": "Who is Master Splinter?"
+                }
+            ]
+        },
+        {
+            "name": "HISTORIC BATTLES",
+            "questions": [
+                {
+                    "value": 200, 
+                    "question": "THIS 1066 BATTLE LED TO NORMAN RULE OVER ENGLAND", 
+                    "answer": "What is the Battle of Hastings?"},
+                {
+                    "value": 400, 
+                    "question": "THE UNION DEFEATED THE CONFEDERACY IN THIS 1863 BATTLE",
+                    "answer": "What is the Battle of Gettysburg?"},
+                {
+                    "value": 600, 
+                    "question": "THIS BATTLE MARKED THE END OF NAPOLEON'S RULE IN 1815", 
+                    "answer": "What is the Battle of Waterloo?"},
+                {
+                    "value": 800, 
+                    "question": "THIS 1944 BATTLE WAS A TURNING POINT IN WORLD WAR II", 
+                    "answer": "What is D-Day?"},
+                {
+                    "value": 1000, 
+                    "question": "THIS 480 BC BATTLE PITTED 300 SPARTANS AGAINST A PERSIAN ARMY", 
+                    "answer": "What is the Battle of Thermopylae?"
+                }
+            ]
+        },
+        {
+            "name": "FAMOUS RIVALRIES",
+            "questions": [
+                {
+                    "value": 200, 
+                    "question": "THIS TENNIS RIVALRY FEATURED FEDERER AND NADAL", 
+                    "answer": "What is Federer vs. Nadal?"
+                },
+                {
+                    "value": 400, 
+                    "question": "THIS CONSOLE WAR PITTED SEGA AGAINST NINTENDO IN THE 1990S", 
+                    "answer": "What is Sega vs. Nintendo?"
+                },
+                {
+                    "value": 600, 
+                    "question": "THIS TECH RIVALRY FEATURES APPLE AND MICROSOFT", 
+                    "answer": "What is Apple vs. Microsoft?"
+                },
+                {
+                    "value": 800, 
+                    "question": "THESE TWO SCIENTISTS FOUGHT OVER ALTERNATING AND DIRECT CURRENT", 
+                    "answer": "Who are Tesla and Edison?"
+                },
+                {
+                    "value": 1000, 
+                    "question": "THIS FOOTBALL RIVALRY INVOLVES BARCELONA AND REAL MADRID", 
+                    "answer": "What is El Clásico?"
+                }
+            ]
+        },
+        {
+            "name": "ANIME & MANGA",
+            "questions": [
+                {
+                    "value": 200, 
+                    "question": "THIS ANIME FEATURES A BOY WHO WANTS TO BE THE PIRATE KING", 
+                    "answer": "What is One Piece?"
+                },
+                {
+                    "value": 400, 
+                    "question": "GOKU IS THE MAIN CHARACTER OF THIS ICONIC ANIME SERIES", 
+                    "answer": "What is Dragon Ball?"
+                },
+                {
+                    "value": 600, 
+                    "question": "IN THIS SERIES, NARUTO DREAMS OF BECOMING HOKAGE", 
+                    "answer": "What is Naruto?"
+                },
+                {
+                    "value": 800, 
+                    "question": "THIS DEATH NOTE USER CAN KILL SOMEONE BY WRITING THEIR NAME", 
+                    "answer": "Who is Light Yagami?"
+                },
+                {
+                    "value": 1000, 
+                    "question": "THIS ANIME FEATURES GIGANTIC HUMANOID ROBOTS CALLED EVA UNITS", 
+                    "answer": "What is Neon Genesis Evangelion?"
+                }
+            ]
         }
     ],
-    "final-jeopardy":{
-        "category": "MARVEL MOVIES",
-        "question": "IT WAS THE FIRST FEATURE-LENGTH MARVEL FILM RELEASED IN THEATERS",
-        "answer": "What is Howard the Duck?"
-    }
+    "final-jeopardy":[
+        {
+            "category": "MARVEL MOVIES",
+            "question": "IT WAS THE FIRST FEATURE-LENGTH MARVEL FILM RELEASED IN THEATERS",
+            "answer": "What is Howard the Duck?"
+        },
+        {
+            "category": "WORLD HISTORY",
+            "question": "IN 1969, THIS COUNTRY BECAME THE FIRST TO LAND HUMANS ON THE MOON",
+            "answer": "What is the United States?"
+        },
+        {
+            "category": "CLASSIC LITERATURE",
+            "question": "THIS NOVEL BEGINS WITH THE LINE 'CALL ME ISHMAEL'",
+            "answer": "What is Moby-Dick?"
+        },
+        {
+            "category": "VIDEO GAME HISTORY",
+            "question": "THIS 1980 ARCADE GAME FEATURES A YELLOW CHARACTER WHO EATS PELLETS AND AVOIDS GHOSTS",
+            "answer": "What is Pac-Man?"
+        },
+        {
+            "category": "MYTHOLOGY",
+            "question": "THIS HERO COMPLETED 12 LABORS, INCLUDING SLAYING THE NEMEAN LION",
+            "answer": "Who is Hercules?"
+        }
+    ]
 }
