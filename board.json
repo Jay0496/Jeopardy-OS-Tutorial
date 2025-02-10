@@ -11,22 +11,22 @@
                 {
                     "value":200,
                     "question":"THIS ROBOT BOUNTY HUNTER WAS HIRED TO FIND THE MILLENNIUM FALCON IN THE EMPIRE STRIKES BACK",
-                    "answer": "Who is IG-88 or 4-LOM?"
+                    "answer": "Who is IG-88?"
                 },
                 {
                     "value":300,
                     "question":"ROBOTS B.O.B. AND V.I.N.C.E.N.T. PROVIDED SOME COMIC RELIEF IN THIS DARK 1979 DISNEY SCI-FI FILM",
-                    "answer": "What is The Black Hole?"
+                    "answer": "What is Black Hole?"
                 },
                 {
                     "value":400,
                     "question":"CHRIS JERICHO HOSTED THIS AUTOMATON FIGHTING COMPETITION ON SYFY IN EARLY 2013",
-                    "answer": "What is Robot Combat League?"
+                    "answer": "What is Robot Combat?"
                 },
                 {
                     "value": 500,
                     "question": "HE'S THE ROBOT WHO GETS ELECTROCUTED AND COMES TO LIFE IN 1986'S SHORT CIRCUIT",
-                    "answer": "Who is Johnny 5/Number 5?"
+                    "answer": "Who is Johnny 5?"
                 }
             ]
         },
@@ -55,8 +55,8 @@
                 },
                 {
                     "value": 500,
-                    "question": "LARRY HRYB BORROWED HIS GAMERTAG, \"MAJOR NELSON\", FROM THIS 1960S SITCOM",
-                    "answer": "What is I Dream of Jeannie?"
+                    "question": "MAJOR NELSON NAME COMES FROM THIS SITCOM",
+                    "answer": "What is Jeannie?"
                 }
             ]
         },
@@ -91,7 +91,7 @@
             ]
         },
         {
-            "name":"GOING \"DARK\"",
+            "name":"GOING DARK",
             "questions":[
                 {
                     "value":100,
@@ -105,18 +105,18 @@
                 },
                 {
                     "value":300,
-                   "question":"THIS CLASSIC FRANK MILLER GRAPHIC NOVEL FEATURES A BITTER, AGING BATMAN AND A FEMALE ROBIN",
-                    "answer": "What is The Dark Knight Returns?"
+                   "question":"FRANK MILLER GRAPHIC NOVEL WITH AGING BATMAN",
+                    "answer": "What is Dark Knight?"
                 },
                 {
                     "value":400,
                    "question":"GELFLINGS KIRA AND JEN ESCAPE THE SKEKSIS IN THIS 1982 JIM HENSON CULT FANTASY FAVORITE",
-                    "answer": "What is The Dark Crystal?"
+                    "answer": "What is Dark Crystal?"
                 },
                 {
                     "value": 500,
-                    "question": "THE SPIDER-MAN STAGE MUSICAL,  NOW PLAYING  ON BROADWAY, FEATURES THIS UNUSUAL SUBTITLE",
-                    "answer": "What is Turn Off the Dark?"
+                    "question": "THE SPIDER-MAN MUSICAL SUBTITLE",
+                    "answer": "What is Turn Dark?"
                 }
             ]
         },
@@ -141,7 +141,7 @@
                 {
                     "value":400,
                    "question":"THEY OWN ROBOCOP, ED-209, AND THE ENTIRE DETROIT POLICE FORCE",
-                    "answer": "What is Omni Consumer Products/OCP?"
+                    "answer": "What is OCP?"
                 },
                 {
                     "value": 500,
@@ -176,7 +176,7 @@
                 {
                     "value": 500,
                     "question": "THIS VIDEO GAME CHARACTER  IS BLUE, COLLECTS RINGS,  AND GOES FAST",
-                    "answer": "What is Sonic/Dankey Kang?"
+                    "answer": "What is Dankey Kang?"
                 }
             ]
         },
@@ -236,7 +236,7 @@
                 {
                     "value": 500, 
                     "question": "THE HALO THEME MUSIC WAS ORIGINALLY PERFORMED WITH THIS TYPE OF CHOIR", 
-                    "answer": "What is a Gregorian Choir?"
+                    "answer": "What is Gregorian Choir?"
                 }
             ]
         },
@@ -251,7 +251,7 @@
                 {
                     "value": 200, 
                     "question": "THIS SPACE TELESCOPE HAS CAPTURED STUNNING IMAGES OF THE UNIVERSE SINCE 1990", 
-                    "answer": "What is the Hubble Space Telescope?"
+                    "answer": "What is Hubble?"
                 },
                 {
                     "value": 300, 
@@ -321,11 +321,13 @@
                 {
                     "value": 400, 
                     "question": "'HERE’S LOOKING AT YOU, KID' IS FROM THIS ICONIC 1942 MOVIE", 
-                    "answer": "What is Casablanca?"},
+                    "answer": "What is Casablanca?"
+                },
                 {
                     "value": 500, 
                     "question": "'I DRINK YOUR MILKSHAKE!' IS FROM THIS 2007 FILM", 
-                    "answer": "What is There Will Be Blood?"}
+                    "answer": "What is Blood?"
+                }
             ]
         },
         {
@@ -344,7 +346,7 @@
                 {
                     "value": 300, 
                     "question": "THIS JAPANESE SWORD IS ASSOCIATED WITH SAMURAI WARRIORS", 
-                    "answer": "What is a Katana?"
+                    "answer": "What is Katana?"
                 },
                 {
                     "value": 400, 
@@ -389,7 +391,7 @@
                 {
                     "value":1000,
                     "question":"NINTENDO'S COIN-OPERATED MULTI-GAME NES SYSTEM WAS KNOWN BY THIS NAME IN ARCADES",
-                    "answer": "What is the PlayChoice-10?"
+                    "answer": "What is PlayChoice-10?"
                 }
             ]
         },
@@ -424,40 +426,35 @@
             ]
         },
         {
-            "name":"COMIC ICONS",
-            "questions":[
+            "name": "COMIC ICONS",
+            "questions": [
                 {
-                    "value":200,
-                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
-                    "image": "images/flash.png",
-                    "answer": "What is the Flash?"
+                    "value": 200,
+                    "question": "THIS SPEEDSTER WEARS A RED SUIT WITH A LIGHTNING BOLT EMBLEM",
+                    "answer": "WHAT IS THE FLASH?"
                 },
                 {
-                    "value":400,
-                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
-                    "image": "images/shield.png",
-                    "answer": "What is S.H.I.E.L.D.?"
+                    "value": 400,
+                    "question": "THIS MARVEL ORGANIZATION IS LED BY NICK FURY",
+                    "answer": "WHAT IS S.H.I.E.L.D.?"
                 },
                 {
-                    "value":600,
-                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
-                    "image": "images/deadpool.png",
-                    "answer": "What is Deadpool?"
+                    "value": 600,
+                    "question": "THIS ANTI-HERO IS KNOWN FOR HIS RED SUIT AND BREAKING THE FOURTH WALL",
+                    "answer": "WHAT IS DEADPOOL?"
                 },
                 {
-                    "value":800,
-                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
-                    "image": "images/spawn.png",
-                    "answer": "What is Spawn?"
+                    "value": 800,
+                    "question": "THIS HELL-SPAWNED ANTI-HERO WAS CREATED BY TODD MCFARLANE",
+                    "answer": "WHAT IS SPAWN?"
                 },
                 {
-                    "value":1000,
-                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
-                    "image": "images/redmist.png",
-                    "answer": "What is The Red Mist?"
+                    "value": 1000,
+                    "question": "THIS CHARACTER IS A VILLAIN FROM THE COMIC SERIES 'KICK-ASS'",
+                    "answer": "WHAT IS RED MIST?"
                 }
             ]
-        },
+        },        
         {
             "name":"BRUCE CAMPBELL",
             "questions":[
@@ -479,12 +476,12 @@
                 {
                     "value":800,
                     "question":"BRUCE STARRED IN JUST 27 EPISODES OF THIS SCI-FI WESTERN SERIES BEFORE FOX CANCELLED IT",
-                    "answer": "What is The Adventures of Brisco County Jr.??"
+                    "answer": "What is Brisco ?"
                 },
                 {
                     "value":1000,
                     "question":"ON JACK OF ALL TRADES, CAMPBELL PLAYED AMERICAN SPY JACK STILES AND THIS MASKED ALTER EGO",
-                    "answer": "What is The Daring Dragoon?"
+                    "answer": "What is Daring Dragoon?"
                 }
             ]
         },
@@ -524,12 +521,12 @@
                 {
                     "value":200,
                     "question":"CONTRARY TO REPORTS, THIS 2009 INFINITY WARD SHOOTER WAS NOT BANNED IN RUSSIA – BUT THE AIRPORT LEVEL WAS REMOVED",
-                    "answer": "What is Modern Warfare 2?"
+                    "answer": "What is MW 2?"
                 },
                 {
                     "value":400,
                     "question":"DESMOND EXPERIENCES THE MEMORIES OF CONNOR IN THIS REVOLUTIONARY TITLE FROM UBISOFT",
-                    "answer": "What is Assassin's Creed III?"
+                    "answer": "What is Assassin's_Creed 3 ?"
                 },
                 {
                     "value":600,
@@ -624,12 +621,12 @@
                 {
                     "value": 600, 
                     "question": "BATMAN, SUPERMAN, AND WONDER WOMAN ARE MEMBERS OF THIS TEAM", 
-                    "answer": "What is The Justice League?"
+                    "answer": "What is Justice League?"
                 },
                 {
                     "value": 800, 
                     "question": "THESE HEROES INCLUDE STAR-LORD, GAMORA, AND GROOT", 
-                    "answer": "Who are The Guardians of the Galaxy?"
+                    "answer": "Who are The Guardians?"
                 },
                 {
                     "value": 1000, 
@@ -643,57 +640,57 @@
             "questions": [
                 {
                     "value": 200, 
-                    "question": "THIS 1066 BATTLE LED TO NORMAN RULE OVER ENGLAND", 
-                    "answer": "What is the Battle of Hastings?"},
+                    "question": "THIS YEAR THE AMERICAN REVOLUTION BEGAN", 
+                    "answer": "What is 1775?"},
                 {
                     "value": 400, 
-                    "question": "THE UNION DEFEATED THE CONFEDERACY IN THIS 1863 BATTLE",
-                    "answer": "What is the Battle of Gettysburg?"},
+                    "question": "THIS YEAR BERLIN WALL FELL",
+                    "answer": "What is 1989?"},
                 {
                     "value": 600, 
-                    "question": "THIS BATTLE MARKED THE END OF NAPOLEON'S RULE IN 1815", 
-                    "answer": "What is the Battle of Waterloo?"},
+                    "question": "THE FIRST U.S. PRESIDENT", 
+                    "answer": "What is washington?"},
                 {
                     "value": 800, 
-                    "question": "THIS 1944 BATTLE WAS A TURNING POINT IN WORLD WAR II", 
-                    "answer": "What is D-Day?"},
+                    "question": "THE EMPIRE RULED BY JUILIS CAESER", 
+                    "answer": "What is Rome?"},
                 {
                     "value": 1000, 
-                    "question": "THIS 480 BC BATTLE PITTED 300 SPARTANS AGAINST A PERSIAN ARMY", 
-                    "answer": "What is the Battle of Thermopylae?"
+                    "question": "YEAR OF WAR BETWEEN US.S AND VIETNAM", 
+                    "answer": "What is 1955?"
                 }
             ]
         },
         {
-            "name": "FAMOUS RIVALRIES",
+            "name": "SCIENCE",
             "questions": [
                 {
                     "value": 200, 
-                    "question": "THIS TENNIS RIVALRY FEATURED FEDERER AND NADAL", 
-                    "answer": "What is Federer vs. Nadal?"
-                },
+                    "question": "THE CHEMICAL ELEMENT WITH THE SYMBOL 'O'",
+                     "answer": "WHAT IS OXYGEN?"
+                    },
                 {
                     "value": 400, 
-                    "question": "THIS CONSOLE WAR PITTED SEGA AGAINST NINTENDO IN THE 1990S", 
-                    "answer": "What is Sega vs. Nintendo?"
+                    "question": "THE FORCE THAT KEEPS PLANETS IN ORBIT AROUND THE SUN", 
+                    "answer": "WHAT IS GRAVITY?"
                 },
                 {
                     "value": 600, 
-                    "question": "THIS TECH RIVALRY FEATURES APPLE AND MICROSOFT", 
-                    "answer": "What is Apple vs. Microsoft?"
+                    "question": "THE SCIENTIST WHO DEVELOPED THE THEORY OF RELATIVITY", 
+                    "answer": "WHO IS EINSTEIN?"
                 },
                 {
                     "value": 800, 
-                    "question": "THESE TWO SCIENTISTS FOUGHT OVER ALTERNATING AND DIRECT CURRENT", 
-                    "answer": "Who are Tesla and Edison?"
+                    "question": "THE PROCESS BY WHICH PLANTS CONVERT SUNLIGHT INTO ENERGY", 
+                    "answer": "WHAT IS PHOTOSYNTHESIS?"
                 },
                 {
                     "value": 1000, 
-                    "question": "THIS FOOTBALL RIVALRY INVOLVES BARCELONA AND REAL MADRID", 
-                    "answer": "What is El Clásico?"
+                    "question": "THE SMALLEST UNIT OF MATTER", 
+                    "answer": "WHAT IS AN ATOM?"
                 }
             ]
-        },
+        },        
         {
             "name": "ANIME & MANGA",
             "questions": [
@@ -720,7 +717,7 @@
                 {
                     "value": 1000, 
                     "question": "THIS ANIME FEATURES GIGANTIC HUMANOID ROBOTS CALLED EVA UNITS", 
-                    "answer": "What is Neon Genesis Evangelion?"
+                    "answer": "What is Neon_Genesis Evangelion?"
                 }
             ]
         }
@@ -729,12 +726,12 @@
         {
             "category": "MARVEL MOVIES",
             "question": "IT WAS THE FIRST FEATURE-LENGTH MARVEL FILM RELEASED IN THEATERS",
-            "answer": "What is Howard the Duck?"
+            "answer": "What is Howard Duck?"
         },
         {
             "category": "WORLD HISTORY",
             "question": "IN 1969, THIS COUNTRY BECAME THE FIRST TO LAND HUMANS ON THE MOON",
-            "answer": "What is the United States?"
+            "answer": "What is United States?"
         },
         {
             "category": "CLASSIC LITERATURE",
