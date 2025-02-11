@@ -5,7 +5,7 @@
             "questions":[
                 {
                     "value":100,
-                    "question":"SPOILER ALERT: HIS DYING WORDS IN THE ANIMATED TRANSFORMERS MOVIE ARE  \"TIL ALL ARE ONE\"",
+                    "question":"SPOILER ALERT: HIS DYING WORDS IN THE ANIMATED TRANSFORMERS MOVIE ARE \"TIL ALL ARE ONE\"",
                     "answer": "Who is Optimus Prime?"
                 },
                 {
@@ -70,7 +70,7 @@
                 },
                 {
                     "value":200,
-                   "question":"\"WHY, YOU SLIMY, DOUBLE-CROSSING, NO-GOOD SWINDLER. YOU GOT A LOT OF GUTS COMING HERE, AFTER WHAT  YOU PULLED\"",
+                   "question":"\"WHY, YOU SLIMY, DOUBLE-CROSSING, NO-GOOD SWINDLER. YOU GOT A LOT OF GUTS COMING HERE, AFTER WHAT YOU PULLED\"",
                     "answer": "Who is Lando Calrissian?"
                 },
                 {
@@ -85,7 +85,7 @@
                 },
                 {
                     "value": 500,
-                    "question": "\"THIS IS IT.  THIS IS WHERE FORRESTAL CASHED IN  HIS CHIPS\"",
+                    "question": "\"THIS IS IT. THIS IS WHERE FORRESTAL CASHED IN HIS CHIPS\"",
                     "answer": "Who is Indiana Jones?"
                 }
             ]
@@ -125,7 +125,7 @@
             "questions":[
                 {
                     "value":100,
-                   "question":"YOU CAN BLAME THIS FICTIONAL COMPANY FOR RESIDENT EVIL'S  T-VIRUS",
+                   "question":"YOU CAN BLAME THIS FICTIONAL COMPANY FOR RESIDENT EVIL'S T-VIRUS",
                     "answer": "What is Umbrella?"
                 },
                 {
@@ -145,7 +145,7 @@
                 },
                 {
                     "value": 500,
-                    "question": "IN TRON, KEVIN FLYNN HACKS HIS WAY INTO THE NETWORK OF THIS FICTIONAL  GAME PUBLISHER",
+                    "question": "IN TRON, KEVIN FLYNN HACKS HIS WAY INTO THE NETWORK OF THIS FICTIONAL GAME PUBLISHER",
                     "answer": "What is Encom?"
                 }
             ]
@@ -165,7 +165,7 @@
                 },
                 {
                     "value":300,
-                   "question":"THIS TWO-BUTTON FIGHTING GAME STARS TWO  GUYS NAMED  KICK AND DIVE",
+                   "question":"THIS TWO-BUTTON FIGHTING GAME STARS TWO GUYS NAMED KICK AND DIVE",
                     "answer": "What is Divekick?"
                 },
                 {
@@ -175,7 +175,7 @@
                 },
                 {
                     "value": 500,
-                    "question": "THIS VIDEO GAME CHARACTER  IS BLUE, COLLECTS RINGS,  AND GOES FAST",
+                    "question": "THIS VIDEO GAME CHARACTER IS BLUE, COLLECTS RINGS, AND GOES FAST",
                     "answer": "What is Dankey Kang?"
                 }
             ]
@@ -375,7 +375,7 @@
                 },
                 {
                     "value":400,
-                    "question":"ORIGINALLY, THE NES VERSION OF PUNCH-OUT!! FEATURED THIS REAL-LIFE BOXER  AS THE END BOSS",
+                    "question":"ORIGINALLY, THE NES VERSION OF PUNCH-OUT!! FEATURED THIS REAL-LIFE BOXER AS THE END BOSS",
                     "answer": "Who is Mike Tyson?"
                 },
                 {
@@ -415,7 +415,7 @@
                 },
                 {
                     "value":800,
-                    "question":"THIS EGOTIST WOULD HAVE BEEN GREEN LANTERN  IF THE RING  HADN’T CHOSEN  HAL JORDAN FIRST",
+                    "question":"THIS EGOTIST WOULD HAVE BEEN GREEN LANTERN IF THE RING HADN’T CHOSEN HAL JORDAN FIRST",
                     "answer": "Who is Guy Gardner?"
                 },
                 {
@@ -465,7 +465,7 @@
                 },
                 {
                     "value":400,
-                    "question":"IN BUBBA HO-TEP, CAMPBELL FIGHTS  A MUMMY AS A GERIATRIC VERSION OF THIS ROCK  MUSIC LEGEND",
+                    "question":"IN BUBBA HO-TEP, CAMPBELL FIGHTS A MUMMY AS A GERIATRIC VERSION OF THIS ROCK MUSIC LEGEND",
                     "answer": "Who is Elvis Presley?"
                 },
                 {
